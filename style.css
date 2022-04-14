@@ -1,0 +1,48 @@
+
+.search{
+	width: 600px;
+	
+}
+
+.pricing{
+	background-color: #feeae9;
+	height: 550px;
+	border-radius: 20px;
+	
+}
+.price{
+	color: #ff136f;
+	font-size: 30px;
+}
+.banner{
+	color: #1f1f1f;
+}
+.description{
+	color: #707070;
+}
+.banner-img{
+	width: 100%;
+	height: 300px;
+}
+.textt{
+	color: grey;
+}
+.btnn{
+	color: white;
+}
+.foot{
+	background-color: #feeae9;
+	height: 250px;
+	border-radius: 20px;
+}
+.email{
+	width: 80%;
+	border-radius: 12px;
+	margin: 0 auto;
+}
+.foot2{
+	display: inline-block;
+	margin-top: 80px;
+}
+
+
